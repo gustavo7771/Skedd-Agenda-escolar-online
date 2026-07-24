@@ -1,0 +1,106 @@
+[
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/eeWykzq6fvQ:APA91bFDRxoUvtJlmLkC4qnXZE3Ppk3pQRMOyDjjwg6R7zXriCW1U2gpFZzgGEJHN_ZZT2DffllQltuw-slLZVlORCPI6J1pQ3OL8BkHsKkxWwwUshfKP2FB2xZCiZ0Iyu3rRTE5O-we",
+        "keys": {
+            "p256dh": "BARiAvTECbCTB1oXjGA5xGNtTo1xH6xWHoAEHw3_hmjZlrXxIwmcQ9rRRoS2Jo-dkVm-9MMtvxru0Du2A0MvbRg",
+            "auth": "g9BtqwYddXcQ0NLnA9egLQ"
+        },
+        "turma": "1001"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/fNxsLSO6wfk:APA91bGWrhHU-p1wVLOeso6uvQzJuF8d4ODfL__12UqP3k3nunuwTmaHrPXcEJeXP9G78iBUp1BTTJEKlioNVQF5onYsnPHUvvtkml8gr2gmam3tx0yLIoZ6CszDd_Fcs8GqWDnLH_sZ",
+        "keys": {
+            "p256dh": "BE27uHEaIf1NlGZNQVKtjLCsuEFYnCr2fJDY2ljFB1JRQIt5yYib7agqlxejMIXiReVaYcp1Qm601raqt_WllVo",
+            "auth": "LzBOoIymR3hhBIxcL2Vb7A"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cuxaCeba37Y:APA91bFVffd0eeg2eaRIx8-CQYOdWeHfRuLEdR1KmnH91DjymJDiHnLVioHRymxK9q55384eT6jPPANEhDhf0kYtOg6Y7xpRnu8RTLsXRhGZGK9iRIyn7s7TB-BPbU0lgFYNAiepiO8i",
+        "keys": {
+            "p256dh": "BLBcuotVpHrymiTmky5GYO-qkgs2aYPdb4Nz6SdqwRooY2tYf7ou7kDhOWTUX5sbVb5TBpN016Aly9sYvxPrkSQ",
+            "auth": "k1UIaXcOTV2n1y4h8t0QEg"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/fV7hpwum-vo:APA91bFlhC8p-NDdG6jwer5VQBHS9pr_zQziSPdDO8pezEn7rcx2bXughvRSGg41bAiDETBO_pmTFvpqTipDYV1GnjQhiFW9VPpKf5xIY5X8Hzj5aqb5ARk7FP-uYRJ9J_2xK9fpA4cA",
+        "keys": {
+            "p256dh": "BJmp0TeGCiDVjuCzWurWGxXPp2OlNlug6c5dQbuSj31HtPNhjBg110p7V2nz9IGfoEvBTTfEGbhwcMf-xkis61c",
+            "auth": "9QQck0ZGJ4nY86USimzb6A"
+        },
+        "turma": "1001"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/c3Vu-Ke0Dtw:APA91bH-X6c5KsJaQ9aGwbhn8YVPoSv1PlyhqOzeDgyJoX5y61veZQEXDGbYY4AZgjDoiC6tbc9fQi2CM_rUC4bebVJMEg6cJUnEnbnYjyZV4nuP-Y3KIPjZM5ATx96Jnmn3etcNvEVT",
+        "keys": {
+            "p256dh": "BO25H8hugHk9ga3mhOfOKKvKk2H_wbGmt4xBbj3vtXFlPg5q3g-Y1oprDcBlqxdd4TZLuqeIyTZSzIUd95TcnNU",
+            "auth": "D2p13gS71A5xJ_ZdBe3lRg"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cJdshH-8jk4:APA91bFyguIIm5VAUPbIXJWpEKGkBZt_Dxf5oc61HbI9Q3Ag-217Xhi0KubyMf2TpEm2heFjjILaHvnatjKmHyazaQEgNfSxEsuCOpd1pxoLgeac4BsBTQMIUcOQwyU98PXHXyyU4PXl",
+        "keys": {
+            "p256dh": "BJ_5GrzBPtaJo9Rov_qpzBeEeo07rrjWPeOiNbHp2o4qo_OSMWoMsnpAFlhD0A04VMlYEswMU2EAfCTMmeIU-Zc",
+            "auth": "0zdc3VOfp8lG3ZFfF9LBsw"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cALSMZ7dyEA:APA91bH8DBuLObw5iEm8ZBitL1Wj37WZ99M_xhpqVDk_dSmLQvZhKOa2XqQG9JSCC_WLRqKTS3NBFOnpDJi8gjzdZzn8V-ZpDHcZKEnfzNly2uLDNoW4ycB-qU94g55A__13NB6Y7Gyf",
+        "keys": {
+            "p256dh": "BOkIqhIsYjYGwdOaeNMwbxBQ8hPLzcjvQdVBD9Yz-uZhYG_fbvTbm2sKcwlfZmBnpbaA1-f2NHuwOyR35vA6geQ",
+            "auth": "qaPbAxiqRGKlr_Ygcr0NBw"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/eVVZ_qqkrN8:APA91bG3Jx_XtjPTd4WYZldtKDbZ_XpnTqtvjFMFRNP_rU-eWtZCup1grfr_K1tY-ce46Nm1TW9smU5_owXjLF8Mjtq4MqcpV2olOglCe0nf8iBZNp_374qUUL3pbMZbIKAHcoiF8YLS",
+        "keys": {
+            "p256dh": "BAnUPw0y1tKzzorpRXSJR1JfEcLifK-sPxKRgKak0BByUAeRzwf3DNgHJpKCjmzgixdYP-ogVgifU4acBRo2tfg",
+            "auth": "8QRRYuTsoJoILlEqT1cTag"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cTx8urTWQHE:APA91bEIZl8knAm05NTm090xOljAhyOxzTlcc3X74SbUaA8InkKzFwx09PQy7fIXfHkP6cO-PlznrCn7ToLK35hfXoF04YKqVhZSTONFLNodar__EyVFXHh2jlY7HhYc8H2yVOf730uj",
+        "keys": {
+            "p256dh": "BCiPwM8uozxetsgoSw8vm9a2O77Laoh6_7o33ueAd8_-AR-VSpfZAlyNcwuDiFm8kQ62qiM3wEngnrWxmm_s5Ik",
+            "auth": "zF7h_hdCUecH5GwZ1w_ntg"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/djPkhqvqZ_M:APA91bHe-_XKjEuXoa2VAE6avnIRyJ5x6UylVEEobnOQOR48bXktqDmDvklDkdTFbzRlCz2uSptQ5U5OFb-SciiReRseJddOzYfl0SLFA9seF8bWNrnkDIqQHUTz5lVVLi9Xh7yOSXKr",
+        "keys": {
+            "p256dh": "BEBHeJnfZNBYDXMbQ-0_cBE1fVQWU1lba66d-qCJtMY-WJCJAN0G5SXLVceSv0h_CSoWGOOafbjemtLyXGsws2E",
+            "auth": "oXb1a3mSRkJCrli1jiQM2A"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/wns2-bl2p.notify.windows.com\/w\/?token=BQYAAAD%2b3TKZE5NoIE6yIv%2brO4Kjf0M4imvtInqinM5vRpdTEOB8rKYylhqARr4vrI6W%2bITPMXlzanlHTsjVIQLnSZE3xqUTIy%2ftWh%2fgRO84GCuhkhICtWGAaNe8DVaRyhM%2fAOeXtuhgNCAn2N4BgcBmtL02lnslvIITKLyQ596l1d0QgpD0b9NfvxT6VLx1Gx6KzkMxAcPGypmz%2bHBfFbU9jUO15TQOsLIsSCnRQ96Y7yY551gdLvIGWqR5%2fcNVaS0YjXd6xCZjoDqRfmluvHvBGFGSlCt2dbQ3L9T0aE1n0vleC3t%2buu2s%2fTXS0t3h0Y%2fUwyA%3d",
+        "keys": {
+            "p256dh": "BEoforT6lgpsL35TuHrqKR9x1D94vhN4soW3rkIet95jofdR1gw-8BBcAt-6HChoxlxI3chCHQN-W-XQ0L8n6BY",
+            "auth": "bSr2YATyMSDSlgt_w6EABg"
+        },
+        "turma": "Docente"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cRSkCIC6BpM:APA91bEEJctZqzCH_YF6ycU9xC5D-sZ0rGC6R2Q1sxeIF3UUW1PBvG0WM1i6zXoyJA0UdeFp-ypVOwcN1ukBbgdIn_VvAhieVTAGsf6AvU9kNp1oD_6a4b7Jx-of1WXApFa4r7fX_KRe",
+        "keys": {
+            "p256dh": "BCCB329gAtq60SHQOnxBqCrXBIx0Rw9IXigpPB3gom3CDprcSms9Aqb5xhg0zxt-1yG5N7j1hg67_O6GPEpaMWI",
+            "auth": "gdHnjb1kc-XJLmSf5eRFmA"
+        },
+        "turma": "1001"
+    },
+    {
+        "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/efs0J9-cjMA:APA91bG5_fqyt-AG6bmgXdwQgnufC6w5xguPyGOLk97d1sSzHZXDKeche9dN9KLymRkemJWYE5OoCaXFv8zGCUn7qvT78RaUTLXUk7nbn5v-yc_bkF0I0ilUCL0nxZDtwLTB76X4DA2a",
+        "keys": {
+            "p256dh": "BDsGJTRGQmZmY9m9uqHc2D3tO15ipBmSwQ8HFUbFSIIDPjpO_5ZvSMAiMcYGo-PcG0OEPIaMF3JzhoaGwstrQFA",
+            "auth": "28V_5KNjmiJWZRXx43QdHw"
+        },
+        "turma": "Docente"
+    }
+]

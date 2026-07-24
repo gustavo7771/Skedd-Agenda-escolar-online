@@ -1,0 +1,92 @@
+[
+    {
+        "id": "6a15db2fb0d32",
+        "turma": "1001",
+        "email": "gfaverobonetti@gmail.com",
+        "senha": "$2y$10$WnVFOqxIWc3CJArzUvr5ieyKK63XAS6Po4KAclnWdr0fIr7nt0h3S",
+        "matricula": "20251PAL0030016tt",
+        "nome": "GustavoFaveroBonetti",
+        "nivel": "aluno",
+        "lembrar_token": "6929d57ec8758eb432aa4bbab0aafaba3b72a1ee8c9bf9ab4ffa6ae9d583a840"
+    },
+    {
+        "id": "6a1823cfd0534",
+        "turma": "Docente",
+        "email": "gustavofaverobonetti@gmail.com",
+        "senha": "$2y$10$teIbFCBptf2u3pF4z4nhRuckIfjpTZqjTdCeX28ZjYN6qX0UQxiDe",
+        "matricula": "20251PAL00030",
+        "nome": "Gustavo Favero Bonetti",
+        "nivel": "professor",
+        "turmas": [
+            "1001",
+            "2001",
+            "3001",
+            "21321",
+            "272342",
+            "1231313"
+        ],
+        "lembrar_token": "4c86d61d47d295651fee9794771fb34f6c9ba5280a8056d80c1d65488771cd7a"
+    },
+    {
+        "id": "6a1ed62011617",
+        "turma": "Docente",
+        "email": "dlamaral2010@gmail.com",
+        "senha": "$2y$10$XQYUWTKQ5.Mp.N0k3rPN.u\/Fgcu7XorBLsEinwgdZVucWMoG0CuAu",
+        "matricula": "4",
+        "nome": "David Lucas",
+        "nivel": "professor",
+        "turmas": [
+            "1001",
+            "2001",
+            "3001",
+            "21321",
+            "272342",
+            "1231313"
+        ]
+    },
+    {
+        "id": "6a1edcefdb3e0",
+        "turma": "1001",
+        "email": "015@gmail.com",
+        "senha": "$2y$10$AhCH17cmaRbplSDnwzDQdeS4K33Tu1n\/X\/hPyhlAc4JKRuMBpQpNe",
+        "matricula": "a2123",
+        "nome": "sim2",
+        "nivel": "aluno"
+    },
+    {
+        "id": "6a29611e9cb86",
+        "turma": "1001",
+        "email": "02@gmail.com",
+        "senha": "$2y$10$zvdMyV3cEzXXexmhqQ\/yv.v4kO4uhb\/zDYocmgp0ya5Q2ZD7oYl\/i",
+        "matricula": "12341",
+        "nome": "agwags gawgsag",
+        "nivel": "aluno"
+    },
+    {
+        "id": "6a3805a44f77b",
+        "turma": "Docente\/Admin",
+        "email": "sccpgustavosccp89@gmail.com",
+        "senha": "$2y$10$UKjCgMzWRhCuNOH7ONYxfOmlGRSEQ7G4r3TZOblPfFiQmFgwDx2\/S",
+        "matricula": "2222",
+        "nome": "gustav",
+        "nivel": "professor",
+        "turmas": [
+            "1001",
+            "2001",
+            "3001",
+            "21321",
+            "272342",
+            "1231313"
+        ]
+    },
+    {
+        "id": "6a39741627e75",
+        "turma": "1001",
+        "email": "123321@gmail.com",
+        "senha": "$2y$10$DLOqPZ2xZgBhmMykiAr0juhYryJt\/.BKsy5UInt\/xnB5h92VI4.qq",
+        "matricula": "91u27131",
+        "nome": "123312",
+        "nivel": "aluno",
+        "lembrar_token": "6e630ca8969e2868996b4d5ab28b3647949043dffeab67c58a92925086e26c92"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "data": "2026-06-21 15:57:10",
+        "acao": "Criar Evento",
+        "detalhes": "Evento 'Contextos e conceitos' criado."
+    },
+    {
+        "data": "2026-06-21 16:01:08",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a38421648cd3 removido."
+    },
+    {
+        "data": "2026-06-21 16:01:30",
+        "acao": "Criar Evento",
+        "detalhes": "Evento 'Contextos e conceitos' criado."
+    },
+    {
+        "data": "2026-06-21 16:01:59",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a38431aa8ea4 removido."
+    },
+    {
+        "data": "2026-06-21 16:04:43",
+        "acao": "Editar Usu\u00e1rio",
+        "detalhes": "O usu\u00e1rio ID 6a3805a44f77b foi modificado."
+    },
+    {
+        "data": "2026-06-21 16:20:28",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3846d03f2b7 removido."
+    },
+    {
+        "data": "2026-06-21 16:20:32",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3846e7f18b5 removido."
+    },
+    {
+        "data": "2026-06-21 16:22:27",
+        "acao": "Editar Usu\u00e1rio",
+        "detalhes": "O usu\u00e1rio ID 6a15db2fb0d32 foi modificado."
+    },
+    {
+        "data": "2026-06-21 16:39:45",
+        "acao": "Criar Evento",
+        "detalhes": "Evento 'Contextos e conceitos' criado."
+    },
+    {
+        "data": "2026-06-21 16:40:01",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a384c11ee5a1 removido."
+    },
+    {
+        "data": "2026-06-21 16:40:32",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3847a0eadff removido."
+    },
+    {
+        "data": "2026-06-21 16:40:39",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3847a0eae03 removido."
+    },
+    {
+        "data": "2026-06-21 16:40:44",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3847a0eae01 removido."
+    },
+    {
+        "data": "2026-06-21 16:40:47",
+        "acao": "Excluir Evento",
+        "detalhes": "Evento ID 6a3847a0eae02 removido."
+    },
+    {
+        "data": "2026-06-21 16:42:14",
+        "acao": "Editar Usu\u00e1rio",
+        "detalhes": "O usu\u00e1rio ID 6a3805a44f77b foi modificado."
+    }
+]
