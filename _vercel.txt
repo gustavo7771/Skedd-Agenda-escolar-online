@@ -1,1 +1,1 @@
-vc-domain-verify=skedd-agenda-escolar-online.vercel.com,34335c3e762949c3289c
+vc-domain-verify=skedd.agenda.com,4453a8d3d7a98707f989
